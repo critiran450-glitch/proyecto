@@ -1,2 +1,0 @@
-# proyecto
-Pequeño proyecto web
